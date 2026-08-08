@@ -58,3 +58,7 @@ src/
 ## 🔗 Preview
 
 ![Restaurant Website Screenshot](./src/assets/Screenshot.png)
+
+## 🔗 Live Demo
+
+[View Live Demo]( https://naghmeh-me.github.io/react-restaurant/)
