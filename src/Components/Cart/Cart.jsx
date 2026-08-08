@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useContext } from "react";
 import classes from "./Cart.module.css";
 import Modal from "../UI/Modal";
-import CartContext from "../../store/cart-context";
+import CartContext from "../../Store/cart-context";
 import CartItem from "./CartItem";
 import ChechOut from "./ChechOut";
 
